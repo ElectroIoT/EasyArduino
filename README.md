@@ -1,6 +1,6 @@
 <!-- Banner/logo section -->
 <p align="center">
-  <img src="/Image/logo.png" alt="ElectroIoT Logo" width="150">
+  <img src="/Images/logo.png" alt="ElectroIoT Logo" width="150">
 </p>
 <h1 align="center">EasyArduino by ElectroIoT</h1>
 
