@@ -4,9 +4,9 @@
 </p>
 <h1 align="center">EasyArduino by ElectroIoT</h1>
 
-# 🔌 EasyArduino — The ultimate beginner’s board to learn, build, and master Arduino the easy way.
+# The ultimate beginner’s board to learn, build, and master Arduino the easy way.
 
-![PCB Render](images/EasyArduino_layout.PNG)
+![PCB Render](Images/EasyArduino_layout.PNG)
 > A beginner-focused custom Arduino Uno-compatible board designed for **learning**, **soldering practice**, and **sensor experimentation**.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -59,17 +59,6 @@ RST  | GND
 
 ---
 
-## 📦 File Structure
-
-```
-EasyArduino/
-├── images/
-│   ├── EasyArduino_layout.PNG
-│   ├── 3D_PCB1_2025-08-07.png
-│   └── SCH_Schematic1_1-P1_2025-08-07.png
-├── LICENSE
-└── README.md
-```
 
 ---
 
@@ -111,7 +100,7 @@ void loop() {
 
 | 3D PCB View | Top Layout | Schematic |
 |-------------|------------|-----------|
-| ![3D PCB](images/3D_PCB1_2025-08-07.png) | ![Top](images/EasyArduino_layout.PNG) | ![Schematic](images/SCH_Schematic1_1-P1_2025-08-07.png) |
+| ![3D PCB](Images/EasyArduino_3D.png) | ![Top](Images/EasyArduino_layout.PNG) | ![Schematic](Images/EasyArduino_Schematic.png) |
 
 ---
 
