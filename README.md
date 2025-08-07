@@ -6,7 +6,7 @@
 
 # The ultimate beginner’s board to learn, build, and master Arduino the easy way.
 
-![PCB Render](Images/EasyArduino_layout.PNG)
+![PCB Render](Images/EasyArduino_3D.png)
 > A beginner-focused custom Arduino Uno-compatible board designed for **learning**, **soldering practice**, and **sensor experimentation**.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
