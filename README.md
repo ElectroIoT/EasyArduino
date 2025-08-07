@@ -1,4 +1,10 @@
-# 🔌 EasyArduino — DIY-Friendly Arduino-Compatible Learning Board
+<!-- Banner/logo section -->
+<p align="center">
+  <img src="/Image/logo.png" alt="ElectroIoT Logo" width="150">
+</p>
+<h1 align="center">EasyArduino by ElectroIoT</h1>
+
+# 🔌 EasyArduino — The ultimate beginner’s board to learn, build, and master Arduino the easy way.
 
 ![PCB Render](images/EasyArduino_layout.PNG)
 > A beginner-focused custom Arduino Uno-compatible board designed for **learning**, **soldering practice**, and **sensor experimentation**.
