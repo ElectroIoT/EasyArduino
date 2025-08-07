@@ -112,6 +112,18 @@ void loop() {
 
 ---
 
+---
+
+## 🌐 More About Me
+
+- **Website:** [https://electroiot.in](https://electroiot.in)
+- **Email:** [electroiot.in@gmail.com](mailto:electroiot.in@gmail.com)
+- **GitHub:** [github.com/ElectroIoT](https://github.com/ElectroIoT)
+- **YouTube:** [@ElectroIoT-IN](https://www.youtube.com/@ElectroIoT-IN)
+
+---
+
+
 ## 📄 License
 
 MIT License – use it freely for education, learning, or hacking!
@@ -121,3 +133,6 @@ MIT License – use it freely for education, learning, or hacking!
 ## 🤝 Credits
 
 Designed with 💙 in [EasyEDA](https://easyeda.com/) by **Manoranjan**
+
+**[EasyEDA](https://easyeda.com/)** – for their powerful PCB design tools 
+**[OSHWLab](https://oshwlab.com/)** – for hosting open-source hardware projects
